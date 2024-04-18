@@ -1,0 +1,19 @@
+https://cs50.harvard.edu/x/2024/psets/0/scratch/
+
+## Requirements
+
+- Your project must use at least two sprites, at least one of which must not be a cat.
+- Your project must have at least three scripts total (i.e., not necessarily three per sprite).
+- Your project must use at least one conditional, at least one loop, and at least one variable.
+- Your project must use at least one custom block that you have made yourself (via **Make a Block**), which must take at least one input.
+- Your project should be more complex than most of those demonstrated in lecture (many of which, though instructive, were quite short) but it can be less complex than [Oscartime](https://scratch.mit.edu/projects/277537196) and [Ivy’s Hardest Game](https://scratch.mit.edu/projects/326129433).
+
+## Concept
+Anchoring game, you are the captain of a small boat and have the task of anchoring yourself in a specific spot
+
+The issue you have is that 
+1. The current will move your anchor at a random speed
+2.  You must drop your anchor a the right spot in relation to where your boat's line will run out
+3. The sea bed is not at a constant level, so it may change from level to level
+
+The score you receive will be how close you are to the target
